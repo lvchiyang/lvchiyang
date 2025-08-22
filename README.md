@@ -1,6 +1,6 @@
 - 👋 Hi, I’m lvchiyang
-- 👀 I’m interested in VR 
-- 🌱 I’m currently learning VR develop
+- 👀 I’m interested in VR, AI  
+- 🌱 I’m currently learning AI develop
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
